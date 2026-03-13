@@ -1,4 +1,4 @@
-# Hi, I'm Ruhi Garg 👋
+# Hi, I'm Ruhi Garga 👋
 
 Software Engineer Lead with 13+ years of experience building enterprise applications using .NET.
 
