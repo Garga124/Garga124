@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ruhi Garg 👋
 
-<!--
-**Garga124/Garga124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer Lead with 13+ years of experience building enterprise applications using .NET.
 
-Here are some ideas to get you started:
+Currently exploring:
+• AI powered applications
+• Retrieval Augmented Generation (RAG)
+• Cloud architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Project
+
+AI Knowledge Assistant for Enterprises
+
+Tech Stack:
+- .NET 8 Web API
+- OpenAI API
+- Vector Database
+- Document Processing
+
+## 💻 Core Skills
+
+- C#
+- .NET / ASP.NET Core
+- Microservices
+- Authentication (OAuth / SAML)
+
+## 🌐 Website
+
+https://ruhigargatechworld.com
